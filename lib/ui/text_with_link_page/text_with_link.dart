@@ -1,6 +1,6 @@
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
-import 'package:shoryu_dev/ui/web_view_page.dart';
+import 'package:shoryu_dev/ui/webview_page/web_view_page.dart';
 import 'package:url_launcher/url_launcher_string.dart';
 
 class TextWithLinkWidget extends StatelessWidget {

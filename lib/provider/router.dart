@@ -3,9 +3,9 @@ import 'package:go_router/go_router.dart';
 import 'package:shoryu_dev/ui/aws/amplify_auth_page.dart';
 import 'package:shoryu_dev/ui/custom_render_object_page/custom_render_object_page.dart';
 import 'package:shoryu_dev/ui/home_page.dart';
-import 'package:shoryu_dev/ui/lottie_page.dart';
-import 'package:shoryu_dev/ui/prefs_page.dart';
-import 'package:shoryu_dev/ui/slider_page.dart';
+import 'package:shoryu_dev/ui/lottie_page/lottie_page.dart';
+import 'package:shoryu_dev/ui/shared_preferences_page/prefs_page.dart';
+import 'package:shoryu_dev/ui/slider_page/slider_page.dart';
 import 'package:shoryu_dev/ui/text_with_link_page/text_with_link_page.dart';
 import 'package:shoryu_dev/ui/video_page/video_page.dart';
 

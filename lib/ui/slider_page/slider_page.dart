@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:shoryu_dev/customed_slider_track_shape.dart';
+import 'package:shoryu_dev/ui/slider_page/customed_slider_track_shape.dart';
 
 class SliderPage extends StatelessWidget {
   const SliderPage({super.key});
