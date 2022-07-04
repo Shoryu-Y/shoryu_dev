@@ -1,0 +1,58 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-shoryudev-dev-83628-authRole",
+      "UnauthRoleArn": "arn:aws:iam::234686309018:role/amplify-shoryudev-dev-83628-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::234686309018:role/amplify-shoryudev-dev-83628-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-shoryudev-dev-83628-deployment",
+      "UnauthRoleName": "amplify-shoryudev-dev-83628-unauthRole",
+      "StackName": "amplify-shoryudev-dev-83628",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:234686309018:stack/amplify-shoryudev-dev-83628/1c2ead60-8067-11eb-bd4b-0a199814a02f",
+      "AmplifyAppId": "d3mwosngib9olq"
+    },
+    "categories": {
+      "auth": {
+        "shoryudev953136e2": {}
+      }
+    }
+  },
+  "prod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-shoryudev-prod-160539-authRole",
+      "UnauthRoleArn": "arn:aws:iam::234686309018:role/amplify-shoryudev-prod-160539-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::234686309018:role/amplify-shoryudev-prod-160539-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-shoryudev-prod-160539-deployment",
+      "UnauthRoleName": "amplify-shoryudev-prod-160539-unauthRole",
+      "StackName": "amplify-shoryudev-prod-160539",
+      "StackId": "arn:aws:cloudformation:us-east-1:234686309018:stack/amplify-shoryudev-prod-160539/06af67d0-8626-11eb-be5b-0e9321cc26bf",
+      "AmplifyAppId": "d5g79guhyr1y0"
+    },
+    "categories": {
+      "auth": {
+        "shoryudev953136e2": {},
+        "userPoolGroups": {}
+      }
+    }
+  },
+  "develop": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-shoryudev-develop-84037-authRole",
+      "UnauthRoleArn": "arn:aws:iam::234686309018:role/amplify-shoryudev-develop-84037-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::234686309018:role/amplify-shoryudev-develop-84037-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-shoryudev-develop-84037-deployment",
+      "UnauthRoleName": "amplify-shoryudev-develop-84037-unauthRole",
+      "StackName": "amplify-shoryudev-develop-84037",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:234686309018:stack/amplify-shoryudev-develop-84037/b764a400-f73b-11ec-a89d-0e44a2fe1fab",
+      "AmplifyAppId": "d3mwosngib9olq"
+    },
+    "categories": {
+      "auth": {
+        "shoryudev953136e2": {},
+        "userPoolGroups": {}
+      }
+    }
+  }
+}

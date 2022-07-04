@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "631854411146",
+    "project_id": "development-c66cb",
+    "storage_bucket": "development-c66cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631854411146:android:09eb7a42be6d24ac4c2c73",
+        "android_client_info": {
+          "package_name": "dev.shoryu.development"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631854411146-nb5i3jdvvkofsd7uihor51tf26i009m8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNDLH8PKm07oezYCvQXNQAoqwOzXImPfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631854411146-nb5i3jdvvkofsd7uihor51tf26i009m8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631854411146:android:09af1e3b8929b8454c2c73",
+        "android_client_info": {
+          "package_name": "dev.shoryu.shoryu_dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631854411146-lmfiosj86hc2pnfc29ac5c20djmhlufb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.shoryu.shoryu_dev",
+            "certificate_hash": "2808d11907b7b70eb215181930c260a8334f6d41"
+          }
+        },
+        {
+          "client_id": "631854411146-nb5i3jdvvkofsd7uihor51tf26i009m8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNDLH8PKm07oezYCvQXNQAoqwOzXImPfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631854411146-nb5i3jdvvkofsd7uihor51tf26i009m8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

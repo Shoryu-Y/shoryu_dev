@@ -1,0 +1,21 @@
+{
+    "appName": "shoryudev",
+    "roleName": "pinpointLambdaRole72286195",
+    "cloudformationPolicyName": "cloudformationPolicy72286195",
+    "cloudWatchPolicyName": "cloudWatchPolicy72286195",
+    "pinpointPolicyName": "pinpointPolicy72286195",
+    "authPolicyName": "pinpoint_amplify_72286195",
+    "unauthPolicyName": "pinpoint_amplify_72286195",
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "unauthRoleName": {
+        "Ref": "UnauthRoleName"
+    },
+    "authRoleArn": {
+        "Fn::GetAtt": [
+            "AuthRole",
+            "Arn"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "groupName": "MyUserGroup",
+    "precedence": 1
+  },
+  {
+    "groupName": "MyIDPool",
+    "precedence": 2
+  }
+]
